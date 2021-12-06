@@ -105,7 +105,7 @@ iframe {
 }
 
 .articles .side-band {
-  display: flex;
+  float: left;
   flex-direction: column;
   align-items: center;
   justify-content: center;
